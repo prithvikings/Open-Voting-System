@@ -1,4 +1,4 @@
-# Voting System
+# Open Voting System
 
 A web-based voting system built with PHP and MySQL, allowing users to vote for their preferred groups, track voting status, and update vote counts. This system includes secure login and user session management.
 
