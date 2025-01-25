@@ -55,3 +55,9 @@ Feel free to fork the project, submit issues, and contribute to the code! Please
 
 ## License
 This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
+
+![Screenshot 2025-01-25 183528](https://github.com/user-attachments/assets/bfbd67de-c4d2-4948-a777-3597ff786319)
+
+![Screenshot 2025-01-25 183357](https://github.com/user-attachments/assets/231bab6b-9619-457d-81d3-9f6d29e750f1)
+
+
